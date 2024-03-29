@@ -4,19 +4,19 @@ setTimeout(function(){
     console.log("Start time")
 }, 1000);
 
-setTimeout (function sayKlichko (){
+setTimeout (function(){
     console.log("Починаємо віджиматись")
 }, 2000); 
 
-setTimeout (function sayKlichko1 (){
+setTimeout (function(){
     console.log("Раз")
 }, 3000); 
 
-setTimeout (function sayKlichko2 (){
+setTimeout (function(){
     console.log("Два")
 }, 4000); 
 
-setTimeout (function sayKlichko2 (){
+setTimeout (function(){
     console.log("Двацять два")
 }, 5000); 
 

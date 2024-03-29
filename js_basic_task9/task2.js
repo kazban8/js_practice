@@ -1,7 +1,7 @@
-import {sayJoek} from "./function.js";
-// console.log(sayJoek)
+import {sayJoke} from "./function.js";
+// console.log(sayJoke)
 
-function sayJoekTest(joek) {
-    console.log(joek)
+function sayJokeTest(joke) {
+    console.log(joke)
 }
-sayJoek(sayJoekTest);
+sayJoke(sayJokeTest);
